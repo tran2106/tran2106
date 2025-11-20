@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, america ya
+Hello!
 
 
 ## 🌐 Socials:
