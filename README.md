@@ -9,24 +9,10 @@ My projects span **ML-powered recommendation engines**, **agentic AI workflows**
 ---
 
 ## 🔍 Roles & Fields I’m Interested In
-
-I’m especially interested in work that blends engineering, data, and product thinking:
-
 - **Full-Stack Development** – end-to-end web applications, UX + backend architecture  
 - **ML / AI Engineering** – embeddings, LLMs, agents, automation pipelines  
 - **Technical Product Management** – problem-scoping, user research, roadmapping  
-
 ---
-
-## 🛠️ What I’m Building
-
-- ML & embedding-based recommendation engines  
-- AI Agent workflows (n8n, LLM APIs, automation tools)  
-- Full-stack web apps (React, Node/Express, PostgreSQL)  
-- Experiments with RAG, vector search, and agentic architectures  
-
----
-
 ## 🌱 Currently Exploring
 
 - AI agents & workflow automation  
