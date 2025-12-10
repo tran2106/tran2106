@@ -24,7 +24,7 @@ My projects span **ML-powered recommendation engines**, **agentic AI workflows**
 |-------------|------------------|----------|----------------|
 | **InvestFX EB-5 Matching Engine** | ML-powered investor–project matching using embeddings + cosine similarity | [View Repo](#) | Python, Colab, Embeddings, ML |
 | **Spotter – AI Playlist Generator** | LLM-powered playlist creation using user preferences + Spotify data | [View Repo](#) | React, Node, LLM APIs, Spotify API |
-| **Gruk AI – Recycling App( Hackathon-Winning Project)** | AI + CV-based recycling classifier with agentic workflows | [View Repo](#) | React, Firebase, Gemini API |
+| **Gruk AI – Recycling App  (Hackathon-Winning Project)** | AI + CV-based recycling classifier with agentic workflows | [View Repo](#) | React, Firebase, Gemini API |
 | **Project 4** | Coming soon | [View Repo](#) | — |
 | **Project 5** | Coming soon | [View Repo](#) | — |
 # 💻 Tech Stack:
