@@ -11,7 +11,7 @@ I’m a CS student at Baruch College, focused on building software that’s fast
 - Scalable backend and systems architecture  
 - Product engineering at the intersection of UX + ML  
 --- 
-## 📁 Check Out My Projects
+## 📁 Check Out My Featured Projects
 
 | **Project** | **Description** | **Link** | **Tech Stack** |
 |-------------|------------------|----------|----------------|
