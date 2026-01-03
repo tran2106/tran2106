@@ -1,6 +1,6 @@
 # 💫 About Me:
-## Hi, I’m Tran
-I’m a CS student at Baruch College, focused on building software that’s fast, scalable, and genuinely useful. I work across **full-stack development**, **AI**, and **machine learning**, and I love turning complex ideas into clean, intuitive, and impactful products.
+## Hi, I’m Tran a CS student at Baruch College,
+I’m focused on building software that’s fast, scalable, and genuinely useful. I work across **full-stack development**, **AI**, and **machine learning**, and I love turning complex ideas into clean, intuitive, and impactful products.
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tran-v-73812b321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vobaohoangtran@gmail.com) 
