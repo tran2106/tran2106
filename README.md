@@ -5,7 +5,6 @@ I’m focused on building software that’s fast, scalable, and genuinely useful
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tran-v-73812b321/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vobaohoangtran@gmail.com) 
----
 ## 🌱 Currently Exploring
 - AI agents & workflow automation  
 - Scalable backend and systems architecture  
