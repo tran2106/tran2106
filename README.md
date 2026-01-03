@@ -1,5 +1,6 @@
 # 💫 About Me:
 ## Hi, I’m Tran a CS student at Baruch College,
+
 I’m focused on building software that’s fast, scalable, and genuinely useful. I work across **full-stack development**, **AI**, and **machine learning**, and I love turning complex ideas into clean, intuitive, and impactful products.
 ---
 ## 🌐 Socials:
